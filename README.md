@@ -6,9 +6,7 @@
 
 ---
 
-## 🌈 About Me  
-- 🎓 Final Year **BE CSE (2025)**  
-- 💼 App Developer (Campus Placement)  
+## 🌈 About Me   
 - 💡 Passionate about **Mobile Development, Firebase, and Real-time Apps**  
 - 🌍 From Karaikudi, Tamil Nadu  
 - ✨ Motto: *“Code. Build. Innovate. Repeat.”*  
