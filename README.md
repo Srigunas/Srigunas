@@ -8,16 +8,19 @@
   
   <br><br>
   
-  <!-- Contact badges based on resume -->
+  <!-- Contact badges - only these are clickable with proper spacing -->
   <a href="https://www.linkedin.com/in/srigunaseelan">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:srigunaseelan2004@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Srigunas">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="tel:+916380133541">
     <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
@@ -58,28 +61,41 @@ class Developer {
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Technical skills from resume -->
+<!-- Technical skills from resume - Non-clickable badges with proper spacing -->
 <div align="center">
 
 ## 💻 **Technical Skills**
 
 ### **Languages**
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<br><br>
 
 ### **Frameworks & Tools**
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+
+<br><br>
 
 ### **Databases & Backend**
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+
+<br><br>
 
 ### **Version Control & Platforms**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
@@ -87,7 +103,7 @@ class Developer {
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Work experience from resume -->
+<!-- Work experience from resume - Updated dates -->
 <div align="center">
 
 ## 💼 **Work Experience**
@@ -95,7 +111,7 @@ class Developer {
 </div>
 
 ### **Flutter Developer | Python Programmer**
-**Gateway Software Solutions** | *2023 - Present*
+**Gateway Software Solutions** | *2024 - Present*
 
 - ✅ Developed and deployed **cross-platform apps** across Android, iOS, and desktop platforms
 - 🏗️ Specialized in **Flutter architecture, state management, and API integration**
@@ -161,14 +177,14 @@ class Developer {
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Education section -->
+<!-- Education section - Updated -->
 <div align="center">
 
 ## 🎓 **Education**
 
 **Bachelor of Engineering - Computer Science and Engineering**  
 **Sri Ranganathar Institute of Engineering and Technology**  
-*Graduating: 2025*
+*2025*
 
 </div>
 
@@ -181,6 +197,7 @@ class Developer {
 ## 📊 **GitHub Analytics**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigunas&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&bg_color=ffffff" alt="GitHub Stats"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigunas&layout=compact&hide_border=true&title_color=667eea&text_color=9f9f9f&bg_color=ffffff" alt="Top Languages"/>
 
 <br><br>
