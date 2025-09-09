@@ -1,70 +1,54 @@
-<!-- Profile README for Srigunaseelan -->
-<!-- Make sure your repo name = your GitHub username -->
+# 📌 Resume – Srigunaseelan S
 
-<h1 align="center">Hi 👋, I'm Srigunaseelan</h1>
-<h3 align="center">🚀 Flutter Developer | 💻 Python Enthusiast | 🔥 Firebase Explorer</h3>
-
----
-
-## 🌈 About Me   
-- 💡 Passionate about **Mobile Development, Firebase, and Real-time Apps**  
-- 🌍 From Karaikudi, Tamil Nadu  
-- ✨ Motto: *“Code. Build. Innovate. Repeat.”*  
+**Flutter App Developer | Python Programmer**  
+📞 +91 6380133541 | ✉️ srigunaseelan2004@gmail.com | 📍 Karaikudi  
+🔗 [LinkedIn](https://www.linkedin.com/in/srigunaseelan) | 💻 [GitHub](https://github.com/Srigunas)
 
 ---
 
-## 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,sqlite,mysql,git,github,androidstudio,vscode" />
-</p>
+## 📝 Summary
+Flutter App Developer and Python Programmer with expertise in building **cross-platform mobile and desktop applications**. Skilled in **Flutter, Dart, Firebase, and SQLite**, with strong problem-solving and backend integration skills. Experienced in developing production-ready apps with **real-time databases, authentication, and scalable architectures**.
 
 ---
 
-## 🏆 Featured Projects  
-
-### 📱 Flutter Apps  
-- **[GroupNest](https://github.com/your-repo-link)** – Real-time Group Study App (Chat, Notes, File Sharing)  
-- **[PlayArena](https://github.com/your-repo-link)** – Turf Booking App with Firebase Auth & Role Management  
-- **[WhatsApp UI Clone](https://github.com/your-repo-link)** – Flutter WhatsApp-style Home Screen  
-- **[BookYourTurf](https://github.com/your-repo-link)** – End-to-End Turf Booking Prototype  
-
-### 🐍 Python Programs (Teaching & Demos)  
-- Palindrome Extractor, Vowel/Consonant Counter, String Manipulation Programs  
-- Beginner-friendly Python Hands-on Exercises  
+## 🛠️ Technical Skills
+- **Languages:** Dart, Python  
+- **Frameworks & Tools:** Flutter, Android Studio, VS Code, PyCharm  
+- **Databases:** Firebase Firestore, Firebase Storage, SQLite  
+- **Authentication:** Firebase Authentication, Google Sign-In  
+- **API Handling:** REST API integration  
+- **Version Control:** Git, GitHub  
+- **Platforms:** Android, iOS, Web, Windows, macOS, Ubuntu, Linux  
+- **Specialties:** State Management (Provider), Secure Data Handling, Cross-Platform Deployment  
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Work Experience
+**Flutter Developer | Python Programmer**  
+*Gateway Software Solutions | 2023 – Present*  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srigunaseelan&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srigunaseelan&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigunaseelan&layout=compact&theme=radical" alt="langs" />
-</p>
+- Developed and deployed **cross-platform apps** across Android, iOS, and desktop platforms.  
+- Specialized in **Flutter architecture, state management, and API integration**.  
+- Contributed to **end-to-end development cycles** including design, testing, and deployment.  
+- Delivered **production-ready applications** with clean, scalable code.  
 
 ---
 
-## 🌐 Connect With Me  
+## 🚀 Project
+### BookMyTurf – Real-Time Turf Booking App (Ongoing)  
+**Role: Flutter Developer**
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/srigunaseelan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🎨 Fun Zone  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" />
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" />
-</p>
+**Contributions:**
+- Implemented **role-based authentication** (User & Owner) using Firebase Authentication + Firestore.  
+- Designed **separate login/signup flows** with dynamic dashboards and conditional navigation.  
+- Built **real-time booking workflows** with slot availability, turf details, and confirmation.  
+- Integrated **Firestore & Firebase Storage** for bookings, schedules, and turf image uploads.  
+- Developed **Google Sign-In with route guards** for secure, role-specific access.  
+- Architected app using **Provider state management** for maintainability and scalability.  
+- Focused on **UI/UX consistency**, responsive design, and **Firestore security rules**.  
 
 ---
 
-⭐️ From [Srigunaseelan](https://github.com/srigunaseelan)
+## 🎓 Education
+**Bachelor of Engineering – Computer Science and Engineering**  
+Sri Ranganathar Institute of Engineering and Technology | *Graduation: 2025*  
