@@ -1,85 +1,117 @@
-<!-- Header with 3D effect -->
+<!-- Header with dynamic animation -->
 <div align="center">
-  <!-- Multiple animated banners for depth -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Srigunaseelan%20S&fontSize=70&fontAlign=50&fontAlignY=45&animation=fadeIn&desc=%E2%9A%A1%20App%20Developer%20%7C%20Code%20Magician%20%E2%9A%A1&descSize=20&descAlign=50&descAlignY=65" alt="3D Header"/>
+  <!-- Professional animated header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Srigunaseelan%20S&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Python%20Programmer&descSize=18&descAlign=50&descAlignY=60" alt="Professional Header"/>
   
-  <!-- Matrix rain effect text -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BB+Cross-Platform+App+Developer;%F0%9F%9A%80+Flutter+%7C+Python+%7C+Firebase;%E2%9A%A1+Building+Digital+Experiences;%F0%9F%94%A5+Crafting+the+Future+of+Apps" alt="Dynamic typing"/>
-  
-  <!-- 3D Floating badges -->
-  <br><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" alt="Dart" />
+  <!-- Dynamic typing based on actual skills -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=667eea&center=true&vCenter=true&width=700&lines=Flutter+App+Developer;Python+Programmer;Cross-Platform+Expert;Firebase+%26+Real-time+Apps;Production-Ready+Solutions" alt="Skills Typing"/>
   
   <br><br>
-  <!-- Social media with glow effect -->
+  
+  <!-- Contact badges based on resume -->
   <a href="https://www.linkedin.com/in/srigunaseelan">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:srigunaseelan2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Srigunas">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+916380133541">
+    <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
   
-  <!-- Animated visitor counter -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Srigunas&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Srigunas?label=Followers&style=for-the-badge&color=blue&labelColor=000000" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Srigunas&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About section with animated elements -->
+<!-- About section based on resume summary -->
 <div align="center">
-  
-## 🎯 **About This Developer**
+
+## 🚀 **About Me**
 
 </div>
 
-```javascript
-const srigunaseelan = {
-    name: "Srigunaseelan S",
-    role: "Full-Stack App Developer",
-    passions: ["Flutter", "Python", "Firebase", "UI/UX"],
-    currentFocus: "Cross-Platform Mobile Applications",
-    education: "B.E. Computer Science & Engineering (2025)",
-    company: "Gateway Software Solutions",
-    motto: "Code with Purpose, Build with Passion",
-    funFact: "I turn coffee into cross-platform applications ☕️➡️📱"
-};
+**Flutter App Developer** and **Python Programmer** with expertise in building **cross-platform mobile and desktop applications**. Skilled in Flutter, Dart, Firebase, and SQLite, with strong problem-solving and backend integration skills. Currently pursuing **B.E. Computer Science & Engineering** and working at **Gateway Software Solutions**.
+
+```dart
+class Developer {
+  final String name = "Srigunaseelan S";
+  final String role = "Flutter App Developer & Python Programmer";
+  final String company = "Gateway Software Solutions";
+  final String location = "Karaikudi, Tamil Nadu";
+  final String education = "B.E. Computer Science & Engineering (2025)";
+  
+  List<String> expertise = [
+    "Cross-platform mobile apps",
+    "Real-time databases", 
+    "Firebase integration",
+    "Production-ready applications"
+  ];
+}
 ```
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Skills section with enhanced icons -->
+<!-- Technical skills from resume -->
 <div align="center">
 
-## 💻 **Tech Arsenal**
+## 💻 **Technical Skills**
 
-### 🔥 **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=dart,python,flutter,firebase,html,css,js&theme=dark&perline=7" />
+### **Languages**
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-### 🛠️ **Development Tools**
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,pycharm,git,github,sqlite&theme=dark&perline=6" />
+### **Frameworks & Tools**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
 
-### 🚀 **Platforms & Deployment**
-<img src="https://skillicons.dev/icons?i=android,apple,linux,windows&theme=dark&perline=4" />
+### **Databases & Backend**
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+
+### **Version Control & Platforms**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Experience section -->
+<!-- Work experience from resume -->
 <div align="center">
 
-## 💼 **Professional Journey**
+## 💼 **Work Experience**
+
+</div>
+
+### **Flutter Developer | Python Programmer**
+**Gateway Software Solutions** | *2023 - Present*
+
+- ✅ Developed and deployed **cross-platform apps** across Android, iOS, and desktop platforms
+- 🏗️ Specialized in **Flutter architecture, state management, and API integration**
+- 🔄 Contributed to **end-to-end development cycles** including design, testing, and deployment
+- 🏆 Recognized for delivering **production-ready applications** with clean, scalable code
+
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured project from resume -->
+<div align="center">
+
+## 🎯 **Featured Project**
+
+### **📱 BookMyTurf - Real-Time Turf Booking App**
+*Role: Flutter Developer | Status: Ongoing*
 
 </div>
 
@@ -87,75 +119,40 @@ const srigunaseelan = {
 <tr>
 <td width="50%">
 
-### 🏢 **Current Role**
-**Flutter Developer | Python Programmer**  
-*Gateway Software Solutions (2023 - Present)*
-
-✅ **Achievements:**
-- 🚀 Built **5+ cross-platform applications**
-- 📱 Specialized in **Flutter architecture & state management**
-- ⚡ **100% production deployment** success rate
-- 🔥 Expert in **Firebase integration & real-time features**
+**🔐 Authentication & Security**
+- Role-based authentication (User & Owner)
+- Firebase Authentication integration
+- Google Sign-In implementation
+- Route guards for secure access
 
 </td>
 <td width="50%">
 
-### 🎓 **Education**
-**Bachelor of Engineering**  
-*Computer Science & Engineering*  
-*Sri Ranganathar Institute of Engineering and Technology*  
-**Graduating: 2025**
-
-🏆 **Highlights:**
-- 📚 Focus on **Mobile App Development**
-- 💡 **Research in Cross-Platform Technologies**
-- 🤝 **Active in coding communities**
-
-</td>
-</tr>
-</table>
-
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Featured project section -->
-<div align="center">
-
-## 🚀 **Spotlight Project**
-
-### 🏟️ **BookMyTurf** - Real-Time Sports Booking Platform
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Flutter+%7C+Firebase+%7C+Real-time+Features;Role-based+Authentication;Cross-platform+Excellence" alt="Project Tech Stack"/>
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-**🔐 Authentication**
-- Role-based login (User/Owner)
-- Firebase Authentication
-- Google Sign-In integration
-- Secure route guards
-
-</td>
-<td width="33%">
-
-**📱 User Experience**  
+**📱 User Experience**
+- Separate login/signup flows
 - Dynamic dashboards
-- Real-time slot booking
-- Interactive turf selection
-- Responsive UI/UX design
+- Real-time booking workflows
+- Slot availability system
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
-**⚡ Backend & Storage**
+**☁️ Backend & Storage**
 - Firestore real-time database
-- Firebase Storage for media
+- Firebase Storage for images
 - Provider state management
-- Advanced security rules
+- Firestore security rules
+
+</td>
+<td width="50%">
+
+**🎨 Design & Architecture**
+- Responsive UI/UX design
+- Conditional navigation
+- Scalable app architecture
+- Cross-platform compatibility
 
 </td>
 </tr>
@@ -164,58 +161,53 @@ const srigunaseelan = {
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub stats section with enhanced visuals -->
+<!-- Education section -->
+<div align="center">
+
+## 🎓 **Education**
+
+**Bachelor of Engineering - Computer Science and Engineering**  
+**Sri Ranganathar Institute of Engineering and Technology**  
+*Graduating: 2025*
+
+</div>
+
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub stats -->
 <div align="center">
 
 ## 📊 **GitHub Analytics**
 
-<!-- Contribution snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srigunas/Srigunas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srigunas/Srigunas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Srigunas/Srigunas/output/github-contribution-grid-snake.svg">
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigunas&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&bg_color=ffffff" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigunas&layout=compact&hide_border=true&title_color=667eea&text_color=9f9f9f&bg_color=ffffff" alt="Top Languages"/>
 
 <br><br>
 
-<!-- Enhanced stats cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigunas&show_icons=true&count_private=true&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9cacc&bg_color=1d1f21" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigunas&layout=compact&hide_border=true&title_color=00D4AA&text_color=c9cacc&bg_color=1d1f21" alt="Top Languages"/>
-
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=Srigunas&theme=dark&hide_border=true&background=1D1F21&currStreakLabel=00D4AA&sideLabels=00D4AA&currStreakNum=C9CACC&sideNums=C9CACC&dates=76797B" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Srigunas&theme=default&hide_border=true&background=ffffff&currStreakLabel=667eea&sideLabels=764ba2&currStreakNum=9f9f9f&sideNums=9f9f9f&dates=9f9f9f" alt="GitHub Streak"/>
 
 </div>
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Activity section -->
+<!-- Specialties from resume -->
 <div align="center">
 
-## 📈 **Current Development Activity**
+## ⚡ **Specialties**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srigunas&bg_color=1d1f21&color=00D4AA&line=00D4AA&point=C9CACC&area=true&hide_border=true" alt="Activity Graph"/>
-
-<!-- Recent activity -->
-### 🔥 **Recent Focus Areas**
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+scalable+Flutter+applications;Exploring+advanced+Firebase+features;Contributing+to+open-source+projects;Learning+new+development+methodologies" alt="Recent Activity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=State+Management+(Provider);Secure+Data+Handling;Cross-Platform+Deployment;Real-time+Database+Integration;Production-Ready+Applications" alt="Specialties"/>
 
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Footer section -->
+<!-- Footer -->
 <div align="center">
 
-## 🌟 **Let's Connect and Build Something Amazing!**
+## 🌟 **Let's Connect!**
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Open+for+collaborations;Always+learning+new+technologies;Passionate+about+clean+code;Ready+to+solve+real-world+problems" alt="Footer Message"/>
+*"Building scalable solutions, one app at a time"*
 
-### 💌 **Get In Touch**
-*"Great apps are built by great collaborations"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontAlign=50&animation=twinkling" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt="Footer"/>
 
 </div>
