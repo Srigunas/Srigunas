@@ -47,7 +47,7 @@ class Developer {
   final String role = "Flutter App Developer & Python Programmer";
   final String company = "Gateway Software Solutions";
   final String location = "Karaikudi, Tamil Nadu";
-  final String education = "B.E. Computer Science & Engineering (2025)";
+  final String education = "B.E. Computer Science & Engineering";
   
   List<String> expertise = [
     "Cross-platform mobile apps",
