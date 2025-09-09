@@ -1,25 +1,41 @@
 <div align="center">
+  <a href="https://github.com/Srigunas">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Srigunaseelan%20S&height=200&section=header"/>
+  </a>
+</div>
 
-# 🌟 Srigunaseelan S 🌟  
-**Flutter App Developer | Python Programmer**  
+<div align="center">
+  <h3>Flutter App Developer & Python Programmer</h3>
 
-📞 +91 6380133541 · ✉️ **srigunaseelan2004@gmail.com** · 📍 Karaikudi  
-🔗 [LinkedIn](https://www.linkedin.com/in/srigunaseelan) · 💻 [GitHub](https://github.com/Srigunas)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Srigunas&color=blue&style=flat-square)
+  <p>
+    <a href="https://www.linkedin.com/in/srigunaseelan">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:srigunaseelan2004@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+    <a href="https://github.com/Srigunas">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Srigunas&color=blue&style=flat-square" alt="Profile Views"/>
 
 ---
 
 </div>
 
-## 📝 About Me  
-💡 Passionate about building **scalable, cross-platform applications**.  
-⚡ Skilled in **Flutter, Dart, Firebase, and Python** with real-world project experience.  
-🚀 On a mission to deliver **impactful, user-friendly, and efficient solutions**.  
+## 📝 About Me
+💡 Passionate about building **scalable, cross-platform applications** that solve real-world problems.
+- ⚡ A skilled developer with hands-on experience in **Flutter, Dart, Firebase, and Python**.
+- 🚀 On a mission to deliver **impactful, user-friendly, and efficient solutions**.
+- 🎓 Currently pursuing a Bachelor of Engineering in Computer Science and Engineering, graduating in **2025**.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
+
+<div align="center"> 
 
 - **Languages:** `Dart`, `Python`  
 - **Frameworks & Tools:** `Flutter`, `Android Studio`, `VS Code`, `PyCharm`  
