@@ -121,58 +121,82 @@ class Developer {
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Featured project from resume -->
+<!-- Enhanced Featured project section -->
 <div align="center">
 
 ## 🎯 **Featured Project**
 
-### **📱 BookMyTurf - Real-Time Turf Booking App**
-*Role: Flutter Developer | Status: Ongoing*
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=📱+BookMyTurf;Real-Time+Turf+Booking+App;Flutter+%7C+Firebase+%7C+Provider" alt="Project Banner"/>
+
+### **🏟️ BookMyTurf - Real-Time Sports Booking Platform**
+**Role:** Flutter Developer | **Status:** Ongoing
+
+<br>
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<!-- Enhanced project details with better alignment -->
+<div align="center">
 
-**🔐 Authentication & Security**
-- Role-based authentication (User & Owner)
-- Firebase Authentication integration
-- Google Sign-In implementation
-- Route guards for secure access
+<table align="center" width="90%">
+<tr>
+<td width="25%" align="center">
+
+**🔐 Authentication**
+<br><br>
+🔑 Role-based system<br>
+👤 User & Owner flows<br>
+🔥 Firebase Auth<br>
+📱 Google Sign-In<br>
+🛡️ Route guards
 
 </td>
-<td width="50%">
+<td width="25%" align="center">
 
 **📱 User Experience**
-- Separate login/signup flows
-- Dynamic dashboards
-- Real-time booking workflows
-- Slot availability system
+<br><br>
+🎨 Dynamic dashboards<br>
+⚡ Real-time booking<br>
+📅 Slot availability<br>
+🏟️ Turf selection<br>
+🔄 Live updates
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25%" align="center">
 
-**☁️ Backend & Storage**
-- Firestore real-time database
-- Firebase Storage for images
-- Provider state management
-- Firestore security rules
+**☁️ Backend & Data**
+<br><br>
+🔥 Firestore database<br>
+📂 Firebase Storage<br>
+🏗️ Provider state mgmt<br>
+🔒 Security rules<br>
+📊 Real-time sync
 
 </td>
-<td width="50%">
+<td width="25%" align="center">
 
-**🎨 Design & Architecture**
-- Responsive UI/UX design
-- Conditional navigation
-- Scalable app architecture
-- Cross-platform compatibility
+**🎯 Architecture**
+<br><br>
+📐 Responsive design<br>
+🌐 Cross-platform<br>
+🔧 Scalable structure<br>
+🎪 Clean UI/UX<br>
+⚙️ Maintainable code
 
 </td>
 </tr>
 </table>
+
+<br>
+
+**🚀 Key Technologies Used:**
+<br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Provider-764BA2?style=flat-square&logo=flutter&logoColor=white" alt="Provider"/>
+
+</div>
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -191,18 +215,23 @@ class Developer {
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub stats -->
+<!-- GitHub stats - Dark Theme -->
 <div align="center">
 
 ## 📊 **GitHub Analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigunas&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&bg_color=ffffff" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigunas&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigunas&layout=compact&hide_border=true&title_color=667eea&text_color=9f9f9f&bg_color=ffffff" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigunas&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Srigunas&theme=default&hide_border=true&background=ffffff&currStreakLabel=667eea&sideLabels=764ba2&currStreakNum=9f9f9f&sideNums=9f9f9f&dates=9f9f9f" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Srigunas&theme=dark&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srigunas&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 
 </div>
 
