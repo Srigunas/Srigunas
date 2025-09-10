@@ -39,7 +39,7 @@
 
 </div>
 
-**Flutter App Developer** and **Python Programmer** with expertise in building **cross-platform mobile and desktop applications**. Skilled in Flutter, Dart, Firebase, and SQLite, with strong problem-solving and backend integration skills. Currently pursuing **B.E. Computer Science & Engineering** and working at **Gateway Software Solutions**.
+**Flutter App Developer** and **Python Programmer** with expertise in building **cross-platform mobile and desktop applications**. Skilled in Flutter, Dart, Firebase, and SQLite, with strong problem-solving and backend integration skills. **Completed B.E. Computer Science & Engineering** and currently working at **Gateway Software Solutions**.
 
 ```dart
 class Developer {
@@ -47,7 +47,7 @@ class Developer {
   final String role = "Flutter App Developer & Python Programmer";
   final String company = "Gateway Software Solutions";
   final String location = "Karaikudi, Tamil Nadu";
-  final String education = "B.E. Computer Science & Engineering";
+  final String education = "B.E. Computer Science & Engineering - Completed";
   
   List<String> expertise = [
     "Cross-platform mobile apps",
